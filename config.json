@@ -21,19 +21,19 @@
                         "dest": 3001
                     },
                     {
-                        "path": "/vless",
+                        "path": "/de04add9-5c68-8bab-950c-08cd5320df18-vless",
                         "dest": 3002
                     },
                     {
-                        "path": "/vmess",
+                        "path": "/de04add9-5c68-8bab-950c-08cd5320df18-vmess",
                         "dest": 3003
                     },
                     {
-                        "path": "/trojan",
+                        "path": "/de04add9-5c68-8bab-950c-08cd5320df18-trojan",
                         "dest": 3004
                     },
                     {
-                        "path": "/shadowsocks",
+                        "path": "/de04add9-5c68-8bab-950c-08cd5320df18-shadowsocks",
                         "dest": 3005
                     }
                 ]
@@ -76,7 +76,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/vless"
+                    "path": "/de04add9-5c68-8bab-950c-08cd5320df18-vless"
                 }
             },
             "sniffing": {
@@ -104,7 +104,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/vmess"
+                    "path": "/de04add9-5c68-8bab-950c-08cd5320df18-vmess"
                 }
             },
             "sniffing": {
@@ -132,7 +132,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/trojan"
+                    "path": "/de04add9-5c68-8bab-950c-08cd5320df18-trojan"
                 }
             },
             "sniffing": {
@@ -161,7 +161,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/shadowsocks"
+                    "path": "/de04add9-5c68-8bab-950c-08cd5320df18-shadowsocks"
                 }
             },
             "sniffing": {
